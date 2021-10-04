@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am an MTech student in IIT Bombay under the speciallization of Technology & Developement. 
+I am currently working on Object detection of a custom dataset using YOLO V5. 
 
 <!--
 **tripathiR36/tripathiR36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
