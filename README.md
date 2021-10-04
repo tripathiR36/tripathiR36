@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Rachna Tripathi, I am from Madhya Pradesh, India. I am an Electrical Engineer.
 I am an MTech student in IIT Bombay under the speciallization of Technology & Developement. 
 I am currently working on Object detection of a custom dataset using YOLO V5. 
 
